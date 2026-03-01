@@ -12,7 +12,7 @@ Three interconnected frameworks that form a single system.
 
 | Document | What It Does |
 |----------|-------------|
-| **[YOU ARE HERE: Keep Existing](docs/you_are_here_v3.pdf)** | The application. A crisis intervention and helper training tool that puts the principles into practice. |
+| **[YOU ARE HERE: Keep Existing](docs/you_are_here.pdf)** | The application. A crisis intervention and helper training tool that puts the principles into practice. |
 | **[Forensic Absolution](docs/forensic_absolution_v1.2.pdf)** | The protocol. A framework for eliminating shame as computational overhead while keeping accountability intact. |
 | **[Forge Math](docs/forge_math_complete.pdf)** | The measurements. 100 equations formalizing cognitive architecture using real EEG data, MMPI-2 scores, and biometrics. |
 
