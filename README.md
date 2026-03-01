@@ -88,7 +88,7 @@ This material is dense, interconnected, and designed to be queried rather than r
 
 A crisis intervention and helper training tool designed for school professionals, first responders, and anyone who might encounter someone in acute distress. Built on fidelity over comfort — meet people where they are, don't smooth the signal.
 
-- **[YOU ARE HERE v3 (PDF)](docs/you_are_here_v3.pdf)** — The full framework.
+- **[YOU ARE HERE (PDF)](docs/you_are_here.pdf)** — The full framework.
 - **[Fillable Template (PDF)](docs/you_are_here_v3_fillable.pdf)** — Blank version. Build your own crisis protocol with your own words, your own numbers, your own people.
 
 ### Forensic Absolution
