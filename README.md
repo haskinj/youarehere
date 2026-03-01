@@ -131,7 +131,7 @@ Available in three tiers:
 
 ## Media
 
-- 🎥 **[NotebookLM Breakdown (YouTube)](https://youtu.be/h2m1t3jw2vY)** — Two AI hosts walk through the YOU ARE HERE framework and discuss what makes it different from standard crisis intervention tools.
+- 🎥 **[NotebookLM Breakdown (YouTube)](https://youtu.be/h2m1t3jw2vY)** — AI host walks through the YOU ARE HERE framework and discusses what makes it different from standard crisis intervention tools.
 
 ---
 
