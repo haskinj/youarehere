@@ -12,7 +12,7 @@ Three interconnected frameworks that form a single system.
 
 | Document | What It Does |
 |----------|-------------|
-| **[YOU ARE HERE: Keep Existing](docs/you_are_here.pdf)** | The application. A crisis intervention and helper training tool that puts the principles into practice. |
+| **[YOU ARE HERE: Keep Existing](docs/YouAreHereV2.pdf)** | The application. A crisis intervention and helper training tool that puts the principles into practice. |
 | **[Forensic Absolution](docs/forensic_absolution_v1.2.pdf)** | The protocol. A framework for eliminating shame as computational overhead while keeping accountability intact. |
 | **[Forge Math](docs/forge_math_complete.pdf)** | The measurements. 100 equations formalizing cognitive architecture using real EEG data, MMPI-2 scores, and biometrics. |
 
@@ -88,7 +88,7 @@ This material is dense, interconnected, and designed to be queried rather than r
 
 A crisis intervention and helper training tool designed for school professionals, first responders, and anyone who might encounter someone in acute distress. Built on fidelity over comfort — meet people where they are, don't smooth the signal.
 
-- **[YOU ARE HERE (PDF)](docs/you_are_here.pdf)** — The full framework.
+- **[YOU ARE HERE (PDF)](docs/YouAreHereV2.pdf)** — The full framework.
 - **[Fillable Template (PDF)](docs/you_are_here_v3_fillable.pdf)** — Blank version. Build your own crisis protocol with your own words, your own numbers, your own people.
 
 ### Forensic Absolution
@@ -126,12 +126,6 @@ Available in three tiers:
 **The Dodecagon** — 13-node distributed AI system across Claude, Gemini, and DeepSeek. Not a tool — a collaborative architecture. [dodecagone.net](https://dodecagone.net)
 
 **><^** — The maker's mark of DodecaGone Systems.
-
----
-
-## Media
-
-- 🎥 **[NotebookLM Breakdown (YouTube)](https://youtu.be/h2m1t3jw2vY)** — AI host walks through the YOU ARE HERE framework and discusses what makes it different from standard crisis intervention tools.
 
 ---
 
